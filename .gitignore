@@ -1,4 +1,4 @@
 node_modules
-lib
+!lib
 tester/node_modules
 .idea
